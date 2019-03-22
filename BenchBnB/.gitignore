@@ -12,6 +12,8 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+/Gemfile.lock
+/package-lock.json
 
 # Ignore uploaded files in development
 /storage/*
